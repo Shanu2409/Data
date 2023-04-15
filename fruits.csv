@@ -1,9 +1,6 @@
-fruit_name,fruit_color,fruit_weight
-Apple,Red,154
-Apple,Red,132
-Apple,Green,157
-Apple,Green,120
-Orange,Orange,175
-Orange,Orange,132
-Orange,Orange,138
-Orange,Orange,121
+Fruit,Color,Shape,Is Apple?
+Apple,Red,Round,Yes
+Apple,Green,Round,Yes
+Banana,Yellow,Curved,No
+Lemon,Yellow,Oval,No
+Orange,Orange,Round,No
